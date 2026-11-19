@@ -1,0 +1,24 @@
+/* Background Navbar */
+.bg-purple {
+    background-color: #7533F9 !important;
+}
+
+/* Main Section */
+#main a {
+    color: gray;
+}
+
+#main a:hover {
+    color: rgb(73, 73, 73);
+}
+
+/* Footer Section */
+#footer a {
+    text-decoration: none;
+    color: black;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+    color: var(--bs-primary) !important;
+}
